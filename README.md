@@ -13,6 +13,8 @@
 
 * Mini-Batch Gradient descent (Mini Toplu Gradyan inişi)
 
+![Screenshot_2020-08-09_10-35-09](https://user-images.githubusercontent.com/54184905/89727318-13926980-da2c-11ea-8fe5-c704e09b5a5b.png)
+
 * Momentum
 
 ![Screenshot_2020-08-09_10-29-41](https://user-images.githubusercontent.com/54184905/89727276-b5fe1d00-da2b-11ea-83e8-cc9160a23ade.png)
@@ -31,3 +33,5 @@
 * Momentumun modelinizin genel performansı üzerindeki etkilerini görmek
 
 ![Screenshot_2020-08-09_10-32-15](https://user-images.githubusercontent.com/54184905/89727279-b72f4a00-da2b-11ea-9a00-b546e00e6b06.png)
+
+* Kaynak : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera) - https://www.coursera.org/learn/deep-neural-network
