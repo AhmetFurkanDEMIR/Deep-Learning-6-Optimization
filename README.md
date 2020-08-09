@@ -9,7 +9,7 @@
 
 * Gradient Descent (Dereceli alçalma)
 
-![Screenshot_2020-08-09_10-30-22](https://user-images.githubusercontent.com/54184905/89727275-b4ccf000-da2b-11ea-90ac-466e20896712.png)
+![Screenshot_2020-08-09_10-29-41](https://user-images.githubusercontent.com/54184905/89727276-b5fe1d00-da2b-11ea-83e8-cc9160a23ade.png)
 
 * Mini-Batch Gradient descent (Mini Toplu Gradyan inişi)
 
@@ -17,7 +17,7 @@
 
 * Momentum
 
-![Screenshot_2020-08-09_10-29-41](https://user-images.githubusercontent.com/54184905/89727276-b5fe1d00-da2b-11ea-83e8-cc9160a23ade.png)
+![Screenshot_2020-08-09_10-30-22](https://user-images.githubusercontent.com/54184905/89727275-b4ccf000-da2b-11ea-90ac-466e20896712.png)
 
 * Adam Optimization
 
