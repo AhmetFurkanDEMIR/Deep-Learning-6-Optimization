@@ -9,11 +9,17 @@
 
 * Gradient Descent (Dereceli alçalma)
 
+![Screenshot_2020-08-09_10-30-22](https://user-images.githubusercontent.com/54184905/89727275-b4ccf000-da2b-11ea-90ac-466e20896712.png)
+
 * Mini-Batch Gradient descent (Mini Toplu Gradyan inişi)
 
 * Momentum
 
+![Screenshot_2020-08-09_10-29-41](https://user-images.githubusercontent.com/54184905/89727276-b5fe1d00-da2b-11ea-83e8-cc9160a23ade.png)
+
 * Adam Optimization
+
+![Screenshot_2020-08-09_10-30-39](https://user-images.githubusercontent.com/54184905/89727277-b696b380-da2b-11ea-9c89-444507c71303.png)
 
 
 # Çıkarımlar
@@ -23,3 +29,5 @@
 * Mini toplu gradyan inişinin önemini öğrenmek
 
 * Momentumun modelinizin genel performansı üzerindeki etkilerini görmek
+
+![Screenshot_2020-08-09_10-32-15](https://user-images.githubusercontent.com/54184905/89727279-b72f4a00-da2b-11ea-9a00-b546e00e6b06.png)
